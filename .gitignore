@@ -1,2 +1,6 @@
-node_modules/
+# Модули Node, логи npm
+node_modules
 npm-debug.log
+
+# Базы данных, логи
+*.log
